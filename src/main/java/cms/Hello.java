@@ -6,6 +6,8 @@ public class Hello {
 		System.out.println("hello Github!");
 		
 		System.out.println("hello swift!");
+		
+		System.out.println("learn on github");
 	}
 
 }
